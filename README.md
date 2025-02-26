@@ -11,7 +11,7 @@ This plugin sends a notification message when a player connects or disconnects f
 ## Installation
 1. Download the plugin files.
 2. Place the plugin in the appropriate plugins directory for your CS2 server.
-3. Restart your server or reload the plugins.
+3. Restart your server or reload the plugins
 
 ## Usage
 Once installed, the plugin will automatically send messages in the game chat when a player joins or leaves.
