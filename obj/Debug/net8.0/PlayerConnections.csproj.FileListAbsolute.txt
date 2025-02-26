@@ -1,0 +1,14 @@
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.csproj.AssemblyReference.cache
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.AssemblyInfoInputs.cache
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.AssemblyInfo.cs
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.csproj.CoreCompileInputs.cache
+C:\Users\Xhirbos\Documents\PlayerConnections\bin\Debug\net8.0\PlayerConnections.deps.json
+C:\Users\Xhirbos\Documents\PlayerConnections\bin\Debug\net8.0\PlayerConnections.dll
+C:\Users\Xhirbos\Documents\PlayerConnections\bin\Debug\net8.0\PlayerConnections.pdb
+C:\Users\Xhirbos\Documents\PlayerConnections\bin\Debug\net8.0\CounterStrikeSharp.API.dll
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerCo.CCC7A081.Up2Date
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.dll
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\refint\PlayerConnections.dll
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\PlayerConnections.pdb
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net8.0\ref\PlayerConnections.dll

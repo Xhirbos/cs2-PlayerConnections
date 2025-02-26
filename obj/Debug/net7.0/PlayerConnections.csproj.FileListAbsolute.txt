@@ -1,0 +1,5 @@
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net7.0\PlayerConnections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net7.0\PlayerConnections.AssemblyInfoInputs.cache
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net7.0\PlayerConnections.AssemblyInfo.cs
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net7.0\PlayerConnections.csproj.CoreCompileInputs.cache
+C:\Users\Xhirbos\Documents\PlayerConnections\obj\Debug\net7.0\PlayerConnections.csproj.AssemblyReference.cache

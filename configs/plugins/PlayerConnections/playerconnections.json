@@ -1,0 +1,4 @@
+{
+    "JoinMessage": "{LIME}[Sunucu] {GREEN}{PLAYERNAME} {YELLOW}sunucuya {LIGHTGREEN}katıldı!",
+    "LeaveMessage": "{ORANGE}[Sunucu] {RED}{PLAYERNAME} {GRAY}sunucudan {DARKRED}ayrıldı!"
+} 
